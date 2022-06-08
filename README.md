@@ -10,5 +10,5 @@ Template idea is to represent a NFT project and give information about product, 
  
  ![screenshot](https://i.ibb.co/xCT5cpH/NFT-gaming.png)
 
-![nft_view](https://i.ibb.co/xCT5cpH/NFT-gaming.png)
+
 
